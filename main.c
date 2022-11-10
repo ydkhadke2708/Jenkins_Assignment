@@ -4,8 +4,8 @@
 #include"mult.h"
 
 int main(){
-	int a = 50;
-	int b = 27;
+	int a = 100;
+	int b = 25;
 	printf("Addition is : %d\nSubtraction is : %d\nMultiplication is : %d\n",add(a,b),sub(a,b),mult(a,b));
 	return 0;
 }
